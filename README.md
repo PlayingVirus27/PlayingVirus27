@@ -1,9 +1,10 @@
 # Bem-vindo ao meu perfil do GitHub 👋
 
-## pronomes Ele/Dele 
+
 
 ## Sobre mim
 
+*Pronomes: Ele/Dele*
 Olá! Meu nome é Rafael Medina e estou começando minha jornada no mundo da programação. Atualmente, estou focando meus estudos principalmente em Python, uma linguagem que sempre me chamou muito a atenção por conta de sua presença em jogos e I.As
 
 ## O que você encontrará aqui?
