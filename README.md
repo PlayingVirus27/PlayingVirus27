@@ -1,41 +1,36 @@
-# Bem-vindo ao meu perfil do GitHub 👋
+# "Hello there" 👋  
+My name is Rafael Medina  
 
-## Sobre mim
+---
 
-*Pronomes: Ele/Dele*
+## 🚀 Languages and Tools:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-Olá! Meu nome é Rafael Medina e estou começando minha jornada no mundo da programação. Atualmente, estou focando meus estudos principalmente em Python, uma linguagem que sempre me chamou muito a atenção por conta de sua presença em jogos e Inteligência Artificial (IA).
+---
 
-## O que você encontrará aqui?
+## 📊 GitHub Stats  
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-MDCL&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-MDCL&layout=compact&theme=radical)
 
-Neste perfil, você encontrará projetos e exercícios que estou desenvolvendo enquanto aprendo. Estes projetos refletem meu progresso e exploram diferentes aspectos da linguagem Python, desde conceitos básicos até desafios mais avançados conforme eu avanço no aprendizado.
+---
 
-## Habilidades
+## 📝 About me  
 
-Por enquanto, minha principal habilidade é o uso adequado do Python, mas também possuo conhecimento em JavaScript.
+### 🇧🇷 PT-BR  
+Sou Rafael Medina, estudante de Ciência da Computação na Unisinos. Tenho grande interesse na área de jogos, realidade virtual e inteligência artificial.  
+Participei do **Geração Caldeira**, onde adquiri experiência em Python, metodologias ágeis e projetos de IA, e da **Residência em Data Science do Instituto Eldorado**, em parceria com a Apple Developer Academy, onde trabalhei com **PostgreSQL, React e análise de dados**.  
+Atualmente exploro **Python, C++, JavaScript** e ferramentas de análise de dados como **Matplotlib, Plotly e scikit-learn**.  
 
-- **Linguagens:**
-  - Python
-  - JavaScript
-
-## Objetivos
-
-Meus principais objetivos aqui no GitHub são:
-
-- Aprender continuamente e melhorar minhas habilidades em programação.
-- Colaborar com outros desenvolvedores e aprender com a comunidade.
-- Compartilhar projetos interessantes e úteis que possam ajudar outros aprendizes como eu.
-
-## O que estou aprendendo atualmente?
-
-Atualmente, estou estudando na plataforma ALURA com o Instituto Caldeira no programa Geração Caldeira. Sempre que posso, estou me aprimorando no ramo da programação para que, um dia, possa exercer minha profissão.
-
-## Como você pode me ajudar?
-
-Se você também está começando ou tem interesse em Python, ficarei feliz em compartilhar recursos e aprender juntos! Sinta-se à vontade para explorar meus repositórios, fazer perguntas ou fornecer feedback. Qualquer contribuição é bem-vinda.
-
-## Contato
-
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/rafael-medina-6669ba2b7/) para conexões profissionais ou me enviar uma mensagem aqui mesmo no GitHub.
-
-Vamos aprender e crescer juntos na programação!
+### 🌍 EN  
+I’m Rafael Medina, a Computer Science student at Unisinos. I’m passionate about **games, virtual reality, and artificial intelligence**.  
+I took part in **Geração Caldeira**, gaining experience in Python, agile methodologies, and AI projects, and in the **Data Science Residency at Instituto Eldorado**, in partnership with Apple Developer Academy, where I worked with **PostgreSQL, React, and data visualization**.  
+Currently, I’m exploring **Python, C++, JavaScript**, and data analysis tools like **Matplotlib, Plotly, and scikit-learn**.  
