@@ -18,9 +18,8 @@ My name is Rafael Medina
 ---
 
 ## 📊 GitHub Stats  
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-MDCL&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-MDCL&layout=compact&theme=radical)
-
+![GitHub Stats](https://seu-projeto.vercel.app/api?username=Rafael-MDCL&show_icons=true&theme=radical)
+![Top Langs](https://seu-projeto.vercel.app/api/top-langs/?username=Rafael-MDCL&layout=compact&theme=radical)
 ---
 
 ## 📝 About me  
